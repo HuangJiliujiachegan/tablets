@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "366c83eed3e6fc85",
+    "type": "split",
+    "children": [
+      {
+        "id": "98878441b5cd7db5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b4a164fa3546a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "4c438a83455ce7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3f0d646f9244723",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eae5175def4ba2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e31340e93b3bd4f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa8adedea1c8dd82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#行者",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff5ade9369d17b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73e9e71640efdbf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "965b5e1acfed6e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c32f5b334c12b34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c22f22caebd51f6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b8c89e6b0f3628e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68bdbde8c5789576",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "34b4a164fa3546a9",
+  "lastOpenFiles": [
+    "未命名.md",
+    "千载河西.md",
+    "千禧派.md",
+    "《神圣的西北农业大学连接着我们》.md",
+    "西北农业大学.md",
+    "张大奎.md",
+    "东正教的圣徒文化.md",
+    "张喜顺.md",
+    "张大彦.md",
+    "密特拉.md",
+    "行者.md",
+    "赛博朋克2077资源文件解析.md",
+    "赛博朋克2077.md",
+    "2023-10-12.md",
+    "未命名"
+  ]
+}
